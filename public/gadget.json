@@ -1,0 +1,257 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "Apple MacBook Pro 16-inch",
+    "product_image": "https://i.im.ge/2025/01/25/HX5qbT.m-1.jpeg",
+    "category": "Laptop",
+    "price": 2399.99,
+    "description": "Powerful laptop with M2 Pro chip, 16-inch Retina display, and 1TB SSD.",
+    "Specification": [
+      "M2 Pro chip",
+      "16-inch Retina display",
+      "1TB SSD",
+      "16GB RAM",
+      "MacOS Ventura"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 2,
+    "product_title": "Dell XPS 13 Plus",
+    "product_image": "https://i.im.ge/2025/01/25/HX5FOf.dee-2.jpeg",
+    "category": "Laptop",
+    "price": 1599.99,
+    "description": "Premium Windows laptop with a sleek design and 12th Gen Intel i7.",
+    "Specification": [
+      "12th Gen Intel Core i7",
+      "13.4-inch InfinityEdge display",
+      "512GB SSD",
+      "16GB RAM",
+      "Windows 11"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 3,
+    "product_title": "Apple iPhone 14 Pro",
+    "product_image": "https://i.im.ge/2025/01/25/HX5dh0.applemacm2-5.jpeg",
+    "category": "Smartphone",
+    "price": 1099.99,
+    "description": "Apple's latest smartphone with A16 Bionic chip and Dynamic Island display.",
+    "Specification": [
+      "A16 Bionic chip",
+      "6.1-inch Super Retina XDR display",
+      "48MP camera",
+      "iOS 16",
+      "5G connectivity"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 4,
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://i.im.ge/2025/01/25/HX5DyG.samsang-ultra5.jpeg",
+    "category": "Smartphone",
+    "price": 1199.99,
+    "description": "Flagship smartphone with Snapdragon 8 Gen 2 and 200MP camera.",
+    "Specification": [
+      "Snapdragon 8 Gen 2",
+      "6.8-inch QHD+ AMOLED",
+      "200MP camera",
+      "Android 13",
+      "5G connectivity"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 5,
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://i.im.ge/2025/01/25/HX56aK.th.jpeg",
+    "category": "Smartwatch",
+    "price": 399.99,
+    "description": "Advanced smartwatch with health and fitness tracking features.",
+    "Specification": [
+      "S9 SiP",
+      "Always-On Retina display",
+      "Blood oxygen monitoring",
+      "Heart rate sensor",
+      "WatchOS 10"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 6,
+    "product_title": "Samsung Galaxy Watch 6",
+    "product_image": "https://i.im.ge/2025/01/25/HX59hz.th-4.jpeg",
+    "category": "Smartwatch",
+    "price": 329.99,
+    "description": "Versatile smartwatch with fitness tracking and AMOLED display.",
+    "Specification": [
+      "Exynos W930 processor",
+      "1.5-inch AMOLED",
+      "Fitness tracking",
+      "Bluetooth/Wi-Fi",
+      "Wear OS"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 7,
+    "product_title": "HP Spectre x360 14",
+    "product_image": "https://i.im.ge/2025/01/25/HX51Zr.hp-laptop.jpeg",
+    "category": "Laptop",
+    "price": 1449.99,
+    "description": "Convertible laptop with 360-degree hinge and OLED display.",
+    "Specification": [
+      "Intel Core i7-1260P",
+      "14-inch OLED display",
+      "1TB SSD",
+      "16GB RAM",
+      "Windows 11"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 8,
+    "product_title": "Apple MacBook Air M2",
+    "product_image": "https://i.im.ge/2025/01/25/HX5sBc.micro5.jpeg",
+    "category": "Laptop",
+    "price": 1299.99,
+    "description": "Lightweight laptop with M2 chip and excellent battery life.",
+    "Specification": [
+      "M2 chip",
+      "13.6-inch Liquid Retina display",
+      "512GB SSD",
+      "8GB RAM",
+      "MacOS Ventura"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 9,
+    "product_title": "Google Pixel Watch",
+    "product_image": "https://i.im.ge/2025/01/25/HX5IHx.tgoogle-pix-watch5.jpeg",
+    "category": "Smartwatch",
+    "price": 349.99,
+    "description": "Stylish smartwatch with Fitbit integration and Google Assistant.",
+    "Specification": [
+      "Custom Google chipset",
+      "1.2-inch AMOLED",
+      "Wear OS",
+      "Heart rate monitoring",
+      "Fitness tracking"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 10,
+    "product_title": "Apple iPhone 13 Mini",
+    "product_image": "https://i.im.ge/2025/01/25/HX5Omm.applephone-35.jpeg",
+    "category": "Smartphone",
+    "price": 699.99,
+    "description": "Compact smartphone with powerful A15 Bionic chip.",
+    "Specification": [
+      "A15 Bionic chip",
+      "5.4-inch Super Retina XDR display",
+      "12MP camera",
+      "iOS 16",
+      "5G connectivity"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 11,
+    "product_title": "Microsoft Surface Laptop 5",
+    "product_image": "https://i.im.ge/2025/01/25/HX5sBc.micro5.jpeg",
+    "category": "Laptop",
+    "price": 1399.99,
+    "description": "Stylish laptop with PixelSense touchscreen and Intel Evo platform.",
+    "Specification": [
+      "12th Gen Intel Core i7",
+      "13.5-inch PixelSense display",
+      "512GB SSD",
+      "16GB RAM",
+      "Windows 11"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 12,
+    "product_title": "Garmin Venu 2 Plus",
+    "product_image": "https://i.im.ge/2025/01/25/HX57aL.samsang-watch-5.jpeg",
+    "category": "Smartwatch",
+    "price": 449.99,
+    "description": "High-performance smartwatch with GPS and advanced fitness metrics.",
+    "Specification": [
+      "AMOLED display",
+      "Built-in GPS",
+      "Fitness tracking",
+      "Heart rate monitoring",
+      "Voice assistant"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 13,
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://i.im.ge/2025/01/25/HX5jb6.th-3.jpeg",
+    "category": "Laptop",
+    "price": 1899.99,
+    "description": "Business laptop with carbon-fiber build and superior performance.",
+    "Specification": [
+      "Intel Core i7",
+      "14-inch WQHD display",
+      "1TB SSD",
+      "16GB RAM",
+      "Windows 11 Pro"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 14,
+    "product_title": "Apple Watch SE",
+    "product_image": "  https://i.im.ge/2025/01/25/HX5SoW.apple-watch-9.jpeg",
+    "category": "Smartwatch",
+    "price": 249.99,
+    "description": "Affordable smartwatch with essential Apple Watch features.",
+    "Specification": [
+      "S8 SiP",
+      "Retina display",
+      "Heart rate sensor",
+      "Fall detection",
+      "WatchOS 10"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 15,
+    "product_title": "Samsung Galaxy Tab S9",
+    "product_image": "https://i.im.ge/2025/01/25/HX5NA9.samsang-ultra5.jpeg",
+    "category": "Tablet",
+    "price": 999.99,
+    "description": "High-performance tablet with AMOLED display and S Pen.",
+    "Specification": [
+      "Snapdragon 8 Gen 2",
+      "11-inch AMOLED",
+      "256GB storage",
+      "8GB RAM",
+      "Android 13"
+    ],
+    "availability": true,
+    "rating": 4.6
+  }
+]
