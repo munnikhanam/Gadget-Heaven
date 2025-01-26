@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "category": "Laptop",
+    "slug": "apple-macbook-pro-16-inch"
+  },
+
+  {
+    "id": 2,
+    "category": "Smartphone",
+    "slug": "apple-iphone-13-mini"
+  },
+
+  {
+    "id": 3,
+    "category": "Smartwatch",
+    "slug": "garmin-venu-2-plus"
+  },
+
+  {
+    "id": 4,
+    "category": "Tablet",
+    "slug": "samsung-galaxy-tab-s9"
+  }
+]

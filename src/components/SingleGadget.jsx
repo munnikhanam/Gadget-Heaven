@@ -1,7 +1,8 @@
 import PropTypes from "prop-types";
 
-const SingleGadget = ({ product }) => {
-  const { product_image, product_title, price } = product;
+const SingleGadget = ({ gadget }) => {
+  const { product_image, product_title, price } = gadget || {};
+
   return (
     <div>
       <div className="card bg-base-100  shadow-sm">

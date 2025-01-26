@@ -4,7 +4,7 @@ import Footer from "../components/Footer";
 
 const Root = () => {
   return (
-    <div className="w-7xl mx-auto font-sora">
+    <div className="w-7xl mx-auto font-sora ">
       <div className="bg-[#9538E2] rounded-t-xl">
         <Navber />
       </div>

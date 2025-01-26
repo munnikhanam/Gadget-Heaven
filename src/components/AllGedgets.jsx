@@ -1,18 +1,24 @@
 import { useEffect, useState } from "react";
-import SingleGadget from "./SingleGadget";
-
+import { useLoaderData, useParams } from "react-router-dom";
+import SingleGadget from "../components/SingleGadget";
 const AllGedgets = () => {
-  const [product, setProduct] = useState([]);
+  const { category } = useParams();
+  console.log(category);
+  const data = useLoaderData();
+  const [allGadget, setallGadget] = useState([]);
   useEffect(() => {
-    fetch("/gadget.json")
-      .then((res) => res.json())
-      .then((data) => setProduct(data));
-  }, []);
+    const remaingGadgets = [...data].filter(
+      (gadget) => gadget.category === category
+    );
+    setallGadget(remaingGadgets);
+  }, [data, category]);
   return (
     <div className="grid md:grid-cols-3 gap-5">
-      {product.map((product) => (
-        <SingleGadget key={product.product_id} product={product} />
-      ))}
+      {category === "all"
+        ? data.map((gadget) => <SingleGadget key={gadget.id} gadget={gadget} />)
+        : allGadget.map((gadget) => (
+            <SingleGadget key={gadget.id} gadget={gadget} />
+          ))}
     </div>
   );
 };

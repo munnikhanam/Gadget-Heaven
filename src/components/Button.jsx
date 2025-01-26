@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 const Button = ({ text }) => {
   return (
     <div>
-      <button className="px-12 py-5 rounded-2xl shadow-xl text-[#FFFFFF] bg-[#9538E2]">
+      <button className="btn my-2 rounded-full bg-[#09080F0D] shadow-xl text-[#9538E2]  hover:border-transparent hover:text-white active:bg-[#9538E2]  hover:bg-[#9538E2]">
         {text}
       </button>
     </div>
